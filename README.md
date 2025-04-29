@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fecd6ece-6372-4e62-bf96-69b5c040155c)![image](https://github.com/user-attachments/assets/8fd9b429-7c60-47f0-864d-4fce07b38ca2)
+
 ---
 
 # Ansible and Docker Setup for Multiple Ubuntu Servers
